@@ -2,9 +2,9 @@
   "name": "blackgamers",
   "version": "0.0.1",
   "description": "Ramazann",
-  "main": "index.js",
+  "main": "rrbot.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node rrbot.js"
   },
   "dependencies": {
     "croxy-api": "^2.0.5",
